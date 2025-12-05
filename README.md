@@ -8,8 +8,8 @@ Este repositorio contiene mis soluciones a los problemas de [Project Euler](http
 
 ## 📂 Estructura
 Cada problema tiene su propia carpeta o archivo, por ejemplo:
-* `Problem_001.py`: Multiples of 3 or 5
-* `Problem_002.py`: Even Fibonacci numbers
+* `problem_001.ipynb`: Multiples of 3 or 5
+* `problem_002.ipynb`: Even Fibonacci numbers
 
 ## ⚠️ Nota
 El objetivo es puramente académico y de práctica personal.
